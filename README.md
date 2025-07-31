@@ -12,7 +12,7 @@ This repository includes the tasks I completed during my remote internship at **
 
 ## 💼 Company Info
 
-- 🌐 [Elevvo LinkedIn Page](https://www.linkedin.com/company/elevvo)
+- 🌐 [Elevvo LinkedIn Page](https://www.linkedin.com/company/elevvopaths/posts/?feedView=all)
 
 ---
 
@@ -20,12 +20,13 @@ This repository includes the tasks I completed during my remote internship at **
 
 ## 📂 Project List
 
-| No. | Project Name       | Tech Stack              | Description                                 |
-|-----|--------------------|-------------------------|---------------------------------------------   |
-| 1   | Contact Form        | HTML, CSS, JS                | Responsive contact form with validation     |
-| 2   | TaskFlow App Page   | HTML, Tailwind               | One-page layout for a task management app   |
-| 3   | Blog Homepage       | HTML, Tailwind, JS           | Blog layout with filtering and pagination   |
-| 4   | Tech Product Page   | HTML, Tailwind, JS           | Landing page for a fictional SaaS tool      |
-| 5   | Job Tracker App     | React, Tailwind, Router      | Multi-page app to track job applications    |
-| 6      
+| No. | Project Name        | Tech Stack               | Description                                 |
+|-----|---------------------|--------------------------|---------------------------------------------|
+| 1   | Contact Form         | HTML, CSS, JS             | Responsive contact form with validation      |
+| 2   | TaskFlow App Page    | HTML, Tailwind            | One-page layout for a task management app    |
+| 3   | Blog Homepage        | HTML, Tailwind, JS        | Blog layout with filtering and pagination    |
+| 4   | Tech Product Page    | HTML, Tailwind, JS        | Landing page for a fictional SaaS tool       |
+| 5   | Job Tracker App      | React, Tailwind, Router   | Multi-page app to track job applications     |
+| 6   | Weather App          | HTML, CSS, JS, API        | Displays weather information using API       |
+
 
