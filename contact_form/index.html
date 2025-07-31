@@ -1,0 +1,64 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Contact Form</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+<main class="main">
+  <div class="contact-container">
+    <div class="contact-image">
+      <img src="img/contact.png" alt="Contact Us">
+      <div class="image-overlay"></div>
+    </div>
+    <form class="contact-form">
+      <div class="form-header">
+        <h2>Get in Touch</h2>
+        <p>We'll get back to you within 24 hours</p>
+      </div>
+
+      <div class="input-group">
+        <label>
+          <span>Full Name</span>
+          <input type="text" name="fullname" required>
+          <div class="input-highlight"></div>
+        </label>
+      </div>
+
+      <div class="input-group">
+        <label>
+          <span>Email Address</span>
+          <input type="email" name="email" required>
+          <div class="input-highlight"></div>
+        </label>
+      </div>
+
+      <div class="input-group">
+        <label>
+          <span>Subject</span>
+          <input type="text" name="subject" required>
+          <div class="input-highlight"></div>
+        </label>
+      </div>
+
+      <div class="input-group">
+        <label>
+          <span>Message</span>
+          <textarea name="message" rows="5" required></textarea>
+          <div class="input-highlight"></div>
+        </label>
+      </div>
+
+      <button type="submit" class="submit-btn">
+        <span>Send Message</span>
+
+      </button>
+    </form>
+  </div>
+</main>
+<script src="js/app.js"></script>
+</body>
+</html>
