@@ -10,15 +10,15 @@ This repository includes the tasks I completed during my remote internship at **
 -  Minimum required tasks for certificate: **4**
 - Completed tasks: **6**
 
-## 💼 Company Info
+## Company Info
 
-- 🌐 [Elevvo LinkedIn Page](https://www.linkedin.com/company/elevvopaths/posts/?feedView=all)
+-  [Elevvo LinkedIn Page](https://www.linkedin.com/company/elevvopaths/posts/?feedView=all)
 
 ---
 
-## ✅ Completed Tasks (6/8)
+##  Completed Tasks (6/8)
 
-## 📂 Project List
+## Project List
 
 | No. | Project Name        | Tech Stack               | Description                                 |
 |-----|---------------------|--------------------------|---------------------------------------------|
